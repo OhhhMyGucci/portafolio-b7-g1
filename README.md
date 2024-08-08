@@ -4,7 +4,7 @@ El presente proyecto es un portafolio desarrollado para poner en práctica las h
 Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap utilizando además bibliotecas externas.
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
-[Proyecto desplegado](https://poetic-fenglisu-f1939a.netlify.app)
+[Proyecto desplegado](https://carinacmr.netlify.app)
 ## Secciones de mi sitio
 ![Presentación](assets/readme/1.png)
 ![Habilidades](assets/readme/2.png)
